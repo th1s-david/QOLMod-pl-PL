@@ -51,7 +51,12 @@
             "export-to-file-button": "Eksportuj do pliku",
             "import-from-file-button": "Importuj z pliku",
             "language-contributors-button": "Wyświetl autorów tlumaczenia",
-            "cancel-button": "Anuluj"
+            "cancel-button": "Anuluj",
+            "notification-mod-enabled": "%s włączony",
+            "notification-mod-disabled": "%s wyłączony",
+            "notification-button-pressed": "%s aktywowany",
+            "notification-speedhack-set": "Speedhack ustawiony na %s",
+            "notification-test": "To jest powiadomienie testowe:3"
         },
         "colour-setup": {
             "title": "Wybierz kolor",
