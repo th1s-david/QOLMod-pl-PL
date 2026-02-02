@@ -332,7 +332,14 @@
             "shortcut/toggle-practice": "Przełącz na tryb Practice",
             "safe-mode/end-screen-cheat-indicator": "Indykator cheatów na ekranie końcowym",
             "tps-bypass": "Bypass TPS",
-            "tps-bypass/value": "TPS:"
+            "tps-bypass/value": "TPS:",
+            "hitbox-trail/darken-by-age": "Przyciemniaj od wieku",
+            "notifications": "Powiadomienia",
+            "notifications/test": "Wyślij powiadomienie testowe",
+            "notifications/duration": "Żywotność",
+            "notifications/right": "Prawa strona",
+            "notifications/blur": "Rozmaż tło",
+            "high-fps-rotation": "Obroty wysokiej wartości FPS"
         },
         "descriptions": {
             "internal/open-menu": "",
