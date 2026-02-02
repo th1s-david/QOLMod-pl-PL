@@ -525,7 +525,13 @@
             "shortcut/restart-attempt": "Restartuje próbe na której teraz jesteś",
             "shortcut/toggle-practice": "Włącza tryb Practice gdy jesteś w poziomie",
             "safe-mode/end-screen-cheat-indicator": "Pokaż indykator cheatow po pobiciu poziomu",
-            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240."
+            "tps-bypass": "Zezwala na to, żeby fizyka była aktualizowana w innej ilości\"klatek na sekunde\" niż domyślne 240.",
+            "hitbox-trail/darken-by-age": "Makes the trail become darker the older it is",
+            "notifications": "Displays a notification whenever you toggle a mod via a keybind or shortcut",
+            "notifications/test": "Sends a test notification",
+            "notifications/right": "Displays the notifications on the right side of the screen",
+            "notifications/blur": "Blurs the background behind the notifications.\nRequires the mod <cc>Blur API</c>",
+            "high-fps-rotation": "Makes the ship rotate like it does when your fps is over 1000"
         }
     }
 }
